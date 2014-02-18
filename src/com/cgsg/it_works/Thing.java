@@ -8,4 +8,5 @@ package com.cgsg.it_works;
  * To change this template use File | Settings | File Templates.
  */
 public class Thing {
+    boolean IsTouch;
 }
