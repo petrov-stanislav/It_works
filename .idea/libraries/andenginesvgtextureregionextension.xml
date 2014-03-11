@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="andenginesvgtextureregionextension">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/andenginesvgtextureregionextension.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/andenginesvgtextureregionextension.jar!/" />
+    </SOURCES>
+  </library>
+</component>

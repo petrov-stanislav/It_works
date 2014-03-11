@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="andenginephysicsbox2dextension">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/andenginephysicsbox2dextension.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/andenginephysicsbox2dextension.jar!/" />
+    </SOURCES>
+  </library>
+</component>

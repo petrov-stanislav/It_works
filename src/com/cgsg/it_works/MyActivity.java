@@ -1,15 +1,28 @@
 package com.cgsg.it_works;
 
-import android.app.Activity;
-import android.os.Bundle;
+import org.anddev.andengine.engine.Engine;
+import org.anddev.andengine.entity.scene.Scene;
+import org.anddev.andengine.ui.activity.BaseGameActivity;
 
-public class MyActivity extends Activity {
-    /**
-     * Called when the activity is first created.
-     */
+public class MyActivity extends BaseGameActivity {
+
     @Override
-    public void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.main);
+    public Engine onLoadEngine() {
+        return null;  //To change body of implemented methods use File | Settings | File Templates.
+    }
+
+    @Override
+    public void onLoadResources() {
+        //To change body of implemented methods use File | Settings | File Templates.
+    }
+
+    @Override
+    public Scene onLoadScene() {
+        return null;  //To change body of implemented methods use File | Settings | File Templates.
+    }
+
+    @Override
+    public void onLoadComplete() {
+        //To change body of implemented methods use File | Settings | File Templates.
     }
 }

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="andenginelivewallpaperextension">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/andenginelivewallpaperextension.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/andenginelivewallpaperextension.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -15,6 +15,14 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="andengine" level="project" />
+    <orderEntry type="library" name="andengineaugmentedrealityextension" level="project" />
+    <orderEntry type="library" name="andenginelivewallpaperextension" level="project" />
+    <orderEntry type="library" name="andenginemodplayerextension" level="project" />
+    <orderEntry type="library" name="andenginemultiplayerextension" level="project" />
+    <orderEntry type="library" name="andenginemultitouchextension" level="project" />
+    <orderEntry type="library" name="andenginephysicsbox2dextension" level="project" />
+    <orderEntry type="library" name="andenginesvgtextureregionextension" level="project" />
   </component>
 </module>
 

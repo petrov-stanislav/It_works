@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="andenginemultiplayerextension">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/andenginemultiplayerextension.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/andenginemultiplayerextension.jar!/" />
+    </SOURCES>
+  </library>
+</component>
